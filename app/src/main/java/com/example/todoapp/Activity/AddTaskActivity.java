@@ -153,6 +153,7 @@ public class AddTaskActivity extends AppCompatActivity {
                         TaskViewModel.update(task);
                     }
                 }
+                finish();
             }
         });
 

@@ -3,6 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/subed/AndroidStudioProjects/todo_app77229152/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.121" />
+        <entry key="..\:/Users/subed/AndroidStudioProjects/todo_app77229152/app/src/main/res/drawable/ic_launcher_background.xml" value="0.121" />
+        <entry key="..\:/Users/subed/AndroidStudioProjects/todo_app77229152/app/src/main/res/layout/layout_about_us.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/subed/AndroidStudioProjects/todo_app77229152/app/src/main/res/layout/layout_add_task.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/subed/AndroidStudioProjects/todo_app77229152/app/src/main/res/layout/layout_splash.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/subed/AndroidStudioProjects/todo_app77229152/app/src/main/res/layout/list_item.xml" value="0.1" />
         <entry key="..\:/Users/subed/AndroidStudioProjects/todo_b-master/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/subed/AndroidStudioProjects/todo_b-master/app/src/main/res/layout/layout_about_us.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/subed/AndroidStudioProjects/todo_b-master/app/src/main/res/layout/layout_add_task.xml" value="0.22826086956521738" />

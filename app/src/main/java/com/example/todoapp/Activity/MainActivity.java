@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
                 break;
             case R.id.menu_delete:
                 androidx.appcompat.app.AlertDialog.Builder alertDialogBuilder = new androidx.appcompat.app.AlertDialog.Builder(MainActivity.this);
-                alertDialogBuilder.setMessage("Are you sure want to remove all task ?");
+                alertDialogBuilder.setMessage("Are you sure want to delete all task ?");
                 alertDialogBuilder.setPositiveButton("Yes",
                         new DialogInterface.OnClickListener() {
                             @Override
