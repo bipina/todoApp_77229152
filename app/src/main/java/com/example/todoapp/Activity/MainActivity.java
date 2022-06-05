@@ -17,6 +17,7 @@ import com.example.todoapp.Model.Task;
 import com.example.todoapp.Model.TaskViewModel;
 import com.example.todoapp.R;
 import com.example.todoapp.Data.Repository;
+import com.google.firebase.auth.FirebaseAuth;
 
 import java.util.List;
 
@@ -89,6 +90,8 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(new Intent(MainActivity.this, AboutUsActivity.class));
                 break;
             case R.id.menu_exit:
+                FirebaseAuth.getInstance().signOut();
+                startActivity(new Intent(MainActivity.this, LoginActivity.class));
                 finish();
                 break;
         }
